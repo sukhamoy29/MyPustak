@@ -226,12 +226,6 @@ The backend provides three main endpoints for managing posts:
    - Alert message if you try to submit empty fields
    - Fields clear automatically after successful post creation
 
-## jbsj
-
-**Backend Deployment:**
-
-- Deploy the `backend/` folder to a Python hosting service (Heroku, Railway, PythonAnywhere, AWS)
-- Update the backend URL in frontend's `src/api.js` to point to your deployed backend
 
 ## 📚 File Descriptions
 
